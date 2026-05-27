@@ -1,0 +1,129 @@
+/* ===== Base ===== */
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  background: radial-gradient(circle at top, #121621, #0b0d12);
+  color: #e6e6e6;
+  line-height: 1.6;
+}
+
+/* ===== Header ===== */
+.header {
+  text-align: center;
+  padding: 50px 20px 20px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2.6rem;
+  color: #f3b3d2;
+  letter-spacing: 1px;
+}
+
+.header p {
+  opacity: 0.7;
+  margin-top: 10px;
+}
+
+/* ===== Navigation ===== */
+nav {
+  text-align: center;
+  margin: 20px 0;
+}
+
+nav a {
+  color: #cfcfcf;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 0.95rem;
+  transition: 0.2s;
+}
+
+nav a:hover {
+  color: #f3b3d2;
+}
+
+/* ===== Homepage Grid ===== */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 25px;
+  padding: 40px;
+  max-width: 1100px;
+  margin: auto;
+}
+
+/* ===== Cards ===== */
+.card {
+  display: block;
+  background: rgba(23, 27, 34, 0.85);
+  border: 1px solid #2a2f3a;
+  border-radius: 14px;
+  padding: 15px;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.25s ease;
+  backdrop-filter: blur(4px);
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  border-color: #f3b3d2;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+}
+
+.card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.card h2 {
+  margin: 8px 0 4px;
+}
+
+.card p {
+  margin: 4px 0;
+  opacity: 0.85;
+}
+
+/* ===== Specimen Page ===== */
+.specimen-page {
+  max-width: 850px;
+  margin: auto;
+  padding: 40px;
+}
+
+.hero-img {
+  width: 100%;
+  border-radius: 14px;
+  margin-bottom: 20px;
+  border: 1px solid #2a2f3a;
+}
+
+/* ===== Info Panels ===== */
+.info, .notes {
+  background: rgba(23, 27, 34, 0.85);
+  border: 1px solid #2a2f3a;
+  padding: 18px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+.info p, .notes p {
+  margin: 6px 0;
+}
+
+/* ===== Footer ===== */
+footer {
+  text-align: center;
+  padding: 30px;
+  opacity: 0.5;
+  font-size: 0.9rem;
+}
+
+/* ===== Subtle Museum Feel ===== */
+::selection {
+  background: #f3b3d2;
+  color: #000;
+}

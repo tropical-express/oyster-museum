@@ -1,0 +1,23 @@
+[
+  {
+    "id": "OMA-001",
+    "name": "Pink Oyster",
+    "scientific": "Pleurotus djamor",
+    "description": "Fast-growing tropical species with vivid coloration.",
+    "image": "images/pink-oyster.jpg"
+  },
+  {
+    "id": "OMA-002",
+    "name": "Blue Oyster",
+    "scientific": "Pleurotus columbinus",
+    "description": "Cool-toned species that darkens with age.",
+    "image": "images/blue-oyster.jpg"
+  },
+  {
+    "id": "OMA-003",
+    "name": "Golden Oyster",
+    "scientific": "Pleurotus citrinopileatus",
+    "description": "Bright clustered growth on hardwood substrates.",
+    "image": "images/golden-oyster.jpg"
+  }
+]
