@@ -9,4 +9,4 @@ A digital museum documenting oyster mushroom species (Pleurotus genus).
 - Static GitHub Pages deployment
 
 ## Live Site
-https://YOUR-USERNAME.github.io/YOUR-REPO/# oyster-museum
+https://tropical-express.github.io/oyster-museum/# oyster-museum
