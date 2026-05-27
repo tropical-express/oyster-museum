@@ -1,4 +1,7 @@
 # Oyster Mushroom Archive
+![archive](https://img.shields.io/badge/archive-operational-green)
+![specimens](https://img.shields.io/badge/specimens-3-blue)
+![status](https://img.shields.io/badge/uptime-monitored-teal)
 
 A digital museum documenting oyster mushroom species (Pleurotus genus).
 
@@ -9,4 +12,4 @@ A digital museum documenting oyster mushroom species (Pleurotus genus).
 - Static GitHub Pages deployment
 
 ## Live Site
-https://tropical-express.github.io/oyster-museum/# oyster-museum
+https://tropical-express.github.io/oyster-museum/
