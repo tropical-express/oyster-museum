@@ -19,5 +19,14 @@
     "scientific": "Pleurotus citrinopileatus",
     "description": "Bright clustered growth on hardwood substrates.",
     "image": "images/golden-oyster.jpg"
+  },
+  {
+    "id": "OMA-004",
+    "name": "King Oyster",
+    "scientific": "Pleurotus eryngii",
+    "description": "Trumpet-shaped fungus with large white colored stem and a small centered tan-brown cap.",
+    "image": "images/king-oyster.jpg"
   }
+
+
 ]
